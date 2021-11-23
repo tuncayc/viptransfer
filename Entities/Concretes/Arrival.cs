@@ -4,6 +4,6 @@ namespace Entities.Concretes
     public class Arrival
     {
         public byte Id { get; set; }
-        public string Point { get; set; }
+        public string Poin { get; set; }
     }
 }
